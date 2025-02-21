@@ -1,0 +1,2 @@
+# C Post-increment in printf
+This example demonstrates the sometimes-unexpected behavior of the post-increment operator (++) when used within a printf statement.  The code intends to print the value of x, then increment it, but the order of evaluation in printf can lead to surprising results. The solution illustrates how to modify the code to ensure the expected output is achieved.
